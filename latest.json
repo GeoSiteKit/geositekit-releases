@@ -1,0 +1,15 @@
+{
+  "channel": "stable",
+  "download_url": "https://github.com/GeoSiteKit/geositekit-releases/releases/download/v1.7.00/GeoSiteKit-v1.7.00-win64.zip",
+  "force_downgrade": false,
+  "install_mode": "manual_migration",
+  "mandatory": false,
+  "migration_url": "https://geositekit.ch/telechargement.html",
+  "minimum_supported_version": "1.6.23",
+  "published_at": "2026-08-06T07:35:38Z",
+  "release_notes": "06.08.2026\n-Modification de noms\n-Redirection vers les nouveaux repos GeoSiteKit depuis version de transition",
+  "schema_version": 1,
+  "sha256": "394a68e32431001a9a277fd31a65b11cae66ee02748c172175ae13474f321d27",
+  "size_bytes": 301078056,
+  "version": "1.7.00"
+}
