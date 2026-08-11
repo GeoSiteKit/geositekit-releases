@@ -1,0 +1,20 @@
+{
+  "artifact_type": "zip",
+  "bootstrap_executable": "GEOSITEKIT_APP/GeoSiteKit.exe",
+  "bootstrap_scope": "current_user",
+  "channel": "beta",
+  "distribution_mode": "bootstrap_zip",
+  "download_url": "https://github.com/GeoSiteKit/geositekit-releases/releases/download/v1.7.2-beta.1/GeoSiteKit-v1.7.2-beta.1-win64.zip",
+  "first_install_artifact": "zip",
+  "force_downgrade": false,
+  "install_mode": "in_place",
+  "mandatory": false,
+  "minimum_supported_version": "1.6.23",
+  "published_at": "2026-08-11T21:42:13Z",
+  "release_notes": "Premiere beta ZIP auto-installante par utilisateur. Extraire entierement le ZIP, fermer AutoCAD, puis double-cliquer sur GEOSITEKIT_APP\\GeoSiteKit.exe. Aucun MSI ni droit administrateur requis.",
+  "requires_setup": false,
+  "schema_version": 1,
+  "sha256": "304afd5c29d0b7434c06363c47ad114a3486fbb8b327f363d668487ad7109328",
+  "size_bytes": 300781720,
+  "version": "1.7.2-beta.1"
+}
