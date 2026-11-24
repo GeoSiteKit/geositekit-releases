@@ -1,0 +1,13 @@
+{
+  "version": "1.7.5",
+  "installer_type": "setup_exe",
+  "installer_url": "https://github.com/GeoSiteKit/geositekit-releases/releases/download/client-v1.7.5/GeoSiteKit-Client-1.7.5-Setup.exe",
+  "installer_size_bytes": 192061250,
+  "installer_sha256": "7bfd9e246d40a7b5460d7fbe1b79981788962973e5853d9e76a0f51d3de3a823",
+  "manifest_schema": "geositekit.release-manifest/v2",
+  "signature": {
+    "algorithm": "ed25519",
+    "key_id": "release-20260911",
+    "value": "tIoT4j8bJEF6K/adGCVRPBBKIGjqvG3zuMUJ9EjXwyZSCAHUrJaCc1SKQQTSyuHxjkcNUK6z4hyJzl0M4MuuDA=="
+  }
+}
